@@ -1,0 +1,11 @@
+##LEITURA DOS SCRIPTS
+source("PACOTES.R", encoding = "UTF-8")
+source("ACIDENTES.R", encoding = "UTF-8")
+source("HOMICIDIOS.R", encoding = "UTF-8")
+source("SUICIDIOS.R", encoding = "UTF-8")
+source("MORTES.R", encoding = "UTF-8")
+source("POP_ANOS.R", encoding = "UTF-8")
+source("TAXAS POR 100 MIL.R", encoding = "UTF-8")
+source("GRAFICOS.R", encoding = "UTF-8")
+source("TABELAS.R", encoding = "UTF-8")
+# load(".RData")
